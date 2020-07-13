@@ -3,6 +3,8 @@ Simply classify Vietnamse comments in the link of the product to give suggestion
 Data was crawled from https://www.thegioididong.com/
 Using 3 different models : RNN, SVM, NaiveBayes to classify
 
+For more details about training model, look at the notebook in 'Training' directory
+
 # Front-end
 ## 1. Install package:
 Run command at ./phone-recommendation-frontend: `yarn`
