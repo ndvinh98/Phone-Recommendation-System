@@ -1,6 +1,4 @@
-A system to scrape product’s feedback from website and
-classify them (bad or good) to suport customers in making
-choice ( buy or not)
+# A system to scrape product’s feedback from website and classify them (bad or good) to suport customers in making choice ( buy or not)
 
 Data was crawled from https://www.thegioididong.com/
 Using 3 different models : RNN, SVM, NaiveBayes to classify and compare performance
