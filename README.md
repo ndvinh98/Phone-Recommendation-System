@@ -19,8 +19,14 @@ Run command: `yarn dev`
 ## 1. Install python:
 https://www.python.org/downloads/
 
-## 2. Install flask:
+## 2. Install lib:
 `pip install Flask`
+`pip install Flask-WTF`
+`pip install underthesea`
+`pip install unidecode`
+`pip install scikit-learn==0.23.1`
+`pip install keras==2.2.5`
+`pip install TensorFlow==1.14`
 
 ## 3. Run code:
 `py main.py`
